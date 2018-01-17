@@ -1,0 +1,10 @@
+{
+  "name": "xodo",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:mloureiro/xodo.git",
+  "author": "Marcos Loureiro <mloureiro.dev@gmail.com>",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.4.2"
+  }
+}
