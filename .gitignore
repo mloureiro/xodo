@@ -1,1 +1,6 @@
-/node_modules
+!.keep
+*.sass-cache
+/_assets/yarn/
+/_site/
+/.jekyll-cache/
+/node_modules/

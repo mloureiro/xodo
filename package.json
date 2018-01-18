@@ -4,6 +4,9 @@
   "main": "index.html",
   "repository": "git@github.com:mloureiro/xodo.git",
   "author": "Marcos Loureiro <mloureiro.dev@gmail.com>",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
   "devDependencies": {
     "gh-pages-deploy": "^0.4.2"
   }
