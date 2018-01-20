@@ -333,7 +333,7 @@
 	<!-- /Footer -->
 
 	<!-- JavaScript -->
-	<script src="static/landing-page/js/jquery-1.10.2.js"></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 	<script src="static/landing-page/js/bootstrap.js"></script>
 
 	<!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
@@ -351,7 +351,7 @@
 	</script>
 	<script>
 		$(function () {
-			$('a[href*=#]:not([href=#])').click(function () {
+			$('a[href*=\\#]:not([href=\\#])').click(function () {
 				if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
 					|| location.hostname == this.hostname) {
 
